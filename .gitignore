@@ -56,4 +56,5 @@ dmypy.json
 
 # macOS
 .DS_Store
+# also ignore potential root DS_Store variations
 ./DS_Store
