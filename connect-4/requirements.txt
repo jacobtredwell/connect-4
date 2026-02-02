@@ -1,0 +1,2 @@
+# This project has no external dependencies beyond the Python standard library.
+# The `numpy` import in the source file is unused. The game will run without NumPy.
